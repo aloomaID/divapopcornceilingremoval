@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://divapopcornceilingremoval.xyz/sitemap_index.xml
